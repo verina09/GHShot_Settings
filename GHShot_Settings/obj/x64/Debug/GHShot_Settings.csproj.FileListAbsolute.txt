@@ -1,0 +1,8 @@
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\bin\x64\Debug\GHShot_Settings.dll
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\bin\x64\Debug\GHShot_Settings.pdb
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\obj\x64\Debug\GHShot_Settings.csproj.CoreCompileInputs.cache
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\obj\x64\Debug\GHShot_Settings.dll
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\obj\x64\Debug\GHShot_Settings.pdb
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\obj\x64\Debug\GHShot_Settings.csprojResolveAssemblyReference.cache
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\obj\x64\Debug\GHShot_Settings.Properties.Resources.resources
+C:\Users\1002560\source\repos\GHShot_Settings\GHShot_Settings\obj\x64\Debug\GHShot_Settings.csproj.GenerateResource.Cache
